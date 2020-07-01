@@ -19,7 +19,7 @@
 .space01 {height: 20px; background-color:#252525;}
 
 /* 메인*/
-
+.main1{background: url("image/about_image_page_bg.jpg") repeat-x top center; height: 650px;}
 .main{background: url("image/about_image_page_bg.jpg") repeat-x top center; height: 1000px;}
 .main_logo{padding-top: 60px;}
 .main h1{font-family: 'Nanum Brush Script', cursive; font-size: 39px; padding: 30px 0px 5px 0px; color: #028CB5;
